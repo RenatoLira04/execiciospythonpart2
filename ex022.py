@@ -1,0 +1,8 @@
+nome = ('Renato Lira de Almeida')
+nome2 = ('Renato')
+nome3 = ('RenatoLiradeAlmeida')
+print(nome)
+print(nome.upper())
+print(nome.lower())
+print(len(nome3))
+print(len(nome2))
